@@ -1,1 +1,4 @@
 # dayone
+
+welcome to github
+
